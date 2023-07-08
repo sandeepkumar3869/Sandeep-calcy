@@ -23,5 +23,4 @@
 13. Hollow hemisphere
 
 
-## Lets try using below link: 
-https://sandeepkumar3869.github.io/
+## Lets try using these link : https://sandeepkumar3869.github.io/
